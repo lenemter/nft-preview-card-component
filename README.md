@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://frontendmentor.io/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/nft-preview-card-component--Cf_jRuCbV)
 - Live Site URL: [Live Site](https://lenemter.github.io/nft-preview-card-component/)
 
 ## My process
